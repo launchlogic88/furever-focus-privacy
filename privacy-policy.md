@@ -16,9 +16,7 @@ Furever Focus ("we," "our," or "us") is committed to protecting your privacy. Th
 - We do not collect biometric data
 
 ### Information We May Collect
-- **App Usage Data**: Focus session duration, completion rates, and app feature usage (stored locally on your device)
 - **Device Information**: Device model, operating system version, and app version for technical support
-- **Crash Reports**: Anonymous technical data to improve app stability
 
 ## How We Use Your Information
 
